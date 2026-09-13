@@ -211,10 +211,10 @@ python budget_optimization.py
 
 ## 📸 Screenshots
 
-*(Add screenshots of the Streamlit app here — single customer prediction, bulk upload results, and the Qini curve.)*
+<img width="1830" height="751" alt="image" src="https://github.com/user-attachments/assets/6d6be714-eb02-419b-a97f-1254a20d6ed5" />
+
+<img width="1803" height="698" alt="image" src="https://github.com/user-attachments/assets/ede75ade-9a72-4f5e-a3dc-f6db5afaa378" />
+
+
 
 ---
-
-## 👤 Author
-
-**GitHub:** [@HarshVarshney0001](https://github.com/HarshVarshney0001)
