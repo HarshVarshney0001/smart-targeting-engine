@@ -1,0 +1,6 @@
+budget_fraction,budget_cap,customers_targeted,actual_cost_spent,expected_incremental_conversions,avg_uplift_of_targeted
+10%,1263.12,9483,1263.05,134.62,0.0142
+25%,3157.81,19025,3157.8,214.02,0.0112
+50%,6315.62,27575,6315.35,274.79,0.01
+75%,9473.44,34540,9473.2,302.18,0.0087
+100%,12631.25,42613,12631.25,301.45,0.0071
